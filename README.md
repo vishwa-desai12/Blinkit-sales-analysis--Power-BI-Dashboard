@@ -47,7 +47,7 @@ The dashboard also includes a breakdown of sales, average sales, number of items
 # Dashboard
 
 <p align="center">
-    <img src="C:\Users\Vishwa\OneDrive\Desktop\blinkit-dashboard.png" alt="BlinkIt Dashboard"/>
+    <img src="https://github.com/vishwa-desai12/Blinkit-sales-analysis--Power-BI-Dashboard/blob/main/blinkit-dashboard.png" alt="BlinkIt Dashboard"/>
 </p>
 
 # Credits
