@@ -43,5 +43,7 @@ Sales distribution across Tier 1, Tier 2, and Tier 3 cities shows that Tier 3 ci
 The dashboard also includes a breakdown of sales, average sales, number of items, and average ratings across different outlet types like Grocery Stores and various types of Supermarkets. The sales are most significant in Medium-sized outlets, contributing $507.9K to total sales.
 
 </div>
-
+<p align="center">
+    <img src="https://github.com/vishwa-desai12/Electric-vehicle-analysis---PowerBI-Dashboard/blob/main/electric%20vehicle%20analysis.png" alt="BlinkIt Dashboard"/>
+</p>
 
