@@ -44,6 +44,6 @@ The dashboard also includes a breakdown of sales, average sales, number of items
 
 </div>
 <p align="center">
-    <img src="https://github.com/vishwa-desai12/Electric-vehicle-analysis---PowerBI-Dashboard/blob/main/electric%20vehicle%20analysis.png" alt="BlinkIt Dashboard"/>
+    <img src="https://github.com/vishwa-desai12/Blinkit-sales-analysis--Power-BI-Dashboard/blob/main/blinkit-dashboard.png" alt="BlinkIt Dashboard"/>
 </p>
 
